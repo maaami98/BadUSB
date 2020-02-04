@@ -1,7 +1,7 @@
 # BadUSB
 - Require
 > Arduino Ide\
-> Digispark Attiny85 \
+> Digispark Attiny85 
 
  json board url:http://digistump.com/package_digistump_index.json 
  
