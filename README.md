@@ -1,4 +1,4 @@
-# BadUSB
+# BadUSB [MULTI-LANGUAGE]
 - Require
 > Arduino Ide\
 > Digispark Attiny85 
